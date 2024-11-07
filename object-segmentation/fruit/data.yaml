@@ -1,0 +1,8 @@
+train: /root/workspace/object-segmentation/fruit/train/images
+val: /root/workspace/object-segmentation/fruit/valid/images
+test: /root/workspace/object-segmentation/fruit/test/images
+
+nc: 3
+names: ['Apple ','Orange ','grapes']
+
+
